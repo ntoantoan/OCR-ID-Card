@@ -4,7 +4,9 @@
 run project:
 
 download 2 file weights and put to folder weights:
+1.
 https://drive.google.com/file/d/19q0dy8uuJt6-qSBaiPXt3MV1bR7AnWlr/view?usp=sharing
+2.
 https://drive.google.com/file/d/1XaoD5DJTGs5DxDqMJCzuqdBGLlKJG-Eq/view?usp=sharing
 
 
