@@ -14,4 +14,4 @@ https://drive.google.com/file/d/1XaoD5DJTGs5DxDqMJCzuqdBGLlKJG-Eq/view?usp=shari
 2. run demo.py
 
 result:
-![image](https://user-images.githubusercontent.com/42260182/149655070-a1c7cd47-b050-4857-9d1d-192a2fa2902e.png)
+![image](https://user-images.githubusercontent.com/42260182/150684583-35f8b13c-6643-416d-a6b8-8d8ea48d76a0.png)
